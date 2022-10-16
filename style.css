@@ -1,0 +1,39 @@
+body {
+    background:  #111 url("sep09.jpg") no-repeat fixed center;
+    color: #ccc;
+    padding: 0;
+    margin: 0;
+    font-family: helvetica, sans-serif;
+}
+nav {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+nav ul {
+    list-style-type: none;
+    display: flex;
+}
+nav ul li {
+    margin: 0 1em 0 0;
+}
+nav ul li a {
+    color: white;
+}
+ul#programing-languages {
+    list-style-type: none;
+    display: flex;
+}
+footer {
+    margin-top: 3em;
+    background-color: black;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 2em 0;
+}
+footer a {
+    color: white;
+}
