@@ -3,4 +3,4 @@ This is my first online portfolio. I made this for school, but I also uploaded i
 
 View page here: Cezar-22/github.io/portfolio
 The repository is public.
-If you have issues or pull requests, you can definely leave them.
+If you have issues or pull requests, you can definely leave them here. I will see them and try to fix them.
